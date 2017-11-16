@@ -1,0 +1,14 @@
+习惯使用pip安装三方包，一般不会出什么问题，直到后面在电脑上同时安装了2和3
+
+机器默认使用的是python2，于是需要注意一下
+
+python2：
+pip install xxxx
+
+python3：
+pip3 install xxxx
+
+命令行的格式和linux安装命令行一致：
+yum  install xxxx
+apt-get install xxxx
+
